@@ -19,7 +19,6 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=LMhdez&theme=github_dark)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LMhdez&layout=compact&theme=github_dark)
 
 ---
