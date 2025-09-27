@@ -19,9 +19,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=LMhdez&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=LMhdez&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LMhdez&layout=compact&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LMhdez&theme=github_dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LMhdez&layout=compact&theme=github_dark)
 
 ---
 
