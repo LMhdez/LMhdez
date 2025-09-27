@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🌐 Experienced in **web development**, **mobile development**, **databases**, and **low-code**  
-- 🗣️ Multilingual: Spanish 🇻🇪 (native), Portuguese 🇵🇹 , English 🇺🇸   
+- 🗣️ Multilingual: Spanish ![ES](https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/ve.svg) (native), Portuguese ![PT](https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg), English ![US](https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg)
 
 ---
 
