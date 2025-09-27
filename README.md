@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🌐 Experienced in **web development (React.js, HTML, CSS, JS)**, **mobile development (Flutter)**, **databases (SQL, MongoDB)**, and **low-code (OutSystems)**  
+- 🌐 Experienced in **web development**, **mobile development**, **databases**, and **low-code**  
 - 🗣️ Multilingual: Spanish 🇻🇪 (native), Portuguese 🇵🇹 , English 🇺🇸   
 
 ---
@@ -24,8 +24,6 @@
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: [hdez.luisantos@gmail.com](mailto:hdez.luisantos@gmail.com)  
-- 🌍 Portfolio: [rayol.rf.gd](http://rayol.rf.gd)  
-- 💼 LinkedIn: [linkedin.com/in/luis-mario-hernández](https://www.linkedin.com/in/luis-mario-hernández/)  
-
----
+[![Email](https://img.shields.io/badge/Email-hdez.luisantos@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:hdez.luisantos@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-rayol.rf.gd-orange?style=flat&logo=firefox&logoColor=white)](http://rayol.rf.gd)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Mario-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mario-hernández/)
