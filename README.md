@@ -7,21 +7,10 @@
 
 I'm a developer based in Portugal, interested in building useful digital products and reliable software.
 
-- Web and mobile development, databases, and low-code solutions
+- Web and mobile development, databases, and software engineering
 - Automation, cloud infrastructure, and self-hosted services
 - Agile methodologies and practical problem-solving
 - Languages: Spanish (native), Portuguese, and English
-
-## Featured project
-
-### [MC Server](https://github.com/LMhdez/mc-start)
-
-A multilingual Minecraft server platform combining a web control panel, Cloudflare Worker, Azure-hosted infrastructure, and a private server-side agent.
-
-- **Features:** Live server status, protected controls, real-time updates, and automated operations.
-- **Stack:** JavaScript, Cloudflare Workers, Azure, Python, and Minecraft.
-
-[Explore the repository →](https://github.com/LMhdez/mc-start)
 
 ## Tech stack
 
