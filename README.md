@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=190&section=header&text=Luis%20Hern%C3%A1ndez&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Portugal&descAlignY=58&descSize=16" width="100%" alt="Luis Hernández — Developer"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LMhdez&style=flat&color=2563eb" alt="Profile views"/>
-</div>
-
 ## About
 
 I'm a developer based in Portugal, interested in building useful digital products and reliable software.
@@ -18,13 +14,17 @@ I'm a developer based in Portugal, interested in building useful digital product
 
 ## Featured project
 
-<div align="center">
-  <a href="https://github.com/LMhdez/mc-start">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LMhdez&repo=mc-start&theme=github_dark&hide_border=true" alt="mc-start repository card"/>
-  </a>
-</div>
-
-**MC Server** — A Minecraft server control platform combining a multilingual web interface, Cloudflare Worker, Azure-hosted infrastructure, and a private server-side agent. Built with an emphasis on automation, operational visibility, and controlled server management.
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/LMhdez/mc-start">MC Server</a></h3>
+      <p>A multilingual Minecraft server platform combining a web control panel, Cloudflare Worker, Azure-hosted infrastructure, and a private server-side agent.</p>
+      <p><strong>Highlights:</strong> Live server status · Protected controls · Real-time updates · Automated operations</p>
+      <p><strong>Stack:</strong> JavaScript · Cloudflare Workers · Azure · Python · Minecraft</p>
+      <a href="https://github.com/LMhdez/mc-start">Explore the project →</a>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
