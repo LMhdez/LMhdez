@@ -14,17 +14,14 @@ I'm a developer based in Portugal, interested in building useful digital product
 
 ## Featured project
 
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/LMhdez/mc-start">MC Server</a></h3>
-      <p>A multilingual Minecraft server platform combining a web control panel, Cloudflare Worker, Azure-hosted infrastructure, and a private server-side agent.</p>
-      <p><strong>Highlights:</strong> Live server status · Protected controls · Real-time updates · Automated operations</p>
-      <p><strong>Stack:</strong> JavaScript · Cloudflare Workers · Azure · Python · Minecraft</p>
-      <a href="https://github.com/LMhdez/mc-start">Explore the project →</a>
-    </td>
-  </tr>
-</table>
+### [MC Server](https://github.com/LMhdez/mc-start)
+
+A multilingual Minecraft server platform combining a web control panel, Cloudflare Worker, Azure-hosted infrastructure, and a private server-side agent.
+
+- **Features:** Live server status, protected controls, real-time updates, and automated operations.
+- **Stack:** JavaScript, Cloudflare Workers, Azure, Python, and Minecraft.
+
+[Explore the repository →](https://github.com/LMhdez/mc-start)
 
 ## Tech stack
 
