@@ -15,7 +15,7 @@ I'm a developer based in Portugal, interested in building useful digital product
 ## Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,flutter,mongodb,mysql,azure,cloudflare,docker,git,github,figma&perline=7" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=js,python,react,flutter,mongodb,mysql,azure,cloudflare,docker&perline=5" alt="Technologies"/>
 </div>
 
 ## GitHub activity
