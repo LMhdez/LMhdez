@@ -10,7 +10,7 @@ I'm a developer based in Portugal, interested in building useful digital product
 - Web and mobile development, databases, and software engineering
 - Automation, cloud infrastructure, and self-hosted services
 - Agile methodologies and practical problem-solving
-- Languages: Spanish (native), Portuguese, and English
+- **Languages:** Spanish (native), Portuguese, and English
 
 ## Tech stack
 
