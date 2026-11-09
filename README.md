@@ -18,12 +18,7 @@ I'm a developer based in Portugal, interested in building useful digital product
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,flutter,mongodb,mysql,azure,cloudflare,docker,git,github,figma&perline=7" alt="Technologies"/>
 </div>
 
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LMhdez&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMhdez&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-</div>
+## GitHub activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LMhdez&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
